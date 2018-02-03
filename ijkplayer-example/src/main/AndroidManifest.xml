@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tv.danmaku.ijk.media.example">
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- for umeng -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <!--<android:uses-permission android:name="android.permission.READ_PHONE_STATE" />-->
+    <!--<android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />-->
+
+    <!--android:icon="@mipmap/ic_launcher"-->
+
+    <application android:allowBackup="false" android:label="@string/app_name"
+        android:supportsRtl="true">false
+
+
+    </application>
+
+    <!--<application-->
+        <!--android:allowBackup="false"-->
+
+        <!--android:label="@string/app_name"-->
+        <!--android:theme="@style/AppTheme">-->
+        <!--<activity-->
+            <!--android:name=".activities.FileExplorerActivity"-->
+            <!--android:configChanges="orientation|keyboardHidden|screenSize"-->
+            <!--android:label="@string/app_name"-->
+            <!--android:screenOrientation="user"-->
+            <!--android:theme="@style/AppTheme">-->
+            <!--&lt;!&ndash;<intent-filter>&ndash;&gt;-->
+                <!--&lt;!&ndash;<action android:name="android.intent.action.MAIN" />&ndash;&gt;-->
+
+                <!--&lt;!&ndash;<category android:name="android.intent.category.LAUNCHER" />&ndash;&gt;-->
+            <!--&lt;!&ndash;</intent-filter>&ndash;&gt;-->
+        <!--</activity>-->
+        <!--<activity-->
+            <!--android:name=".activities.SampleMediaActivity"-->
+            <!--android:configChanges="orientation|keyboardHidden|screenSize"-->
+            <!--android:label="@string/app_name"-->
+            <!--android:screenOrientation="user"-->
+            <!--android:theme="@style/AppTheme" />-->
+        <!--<activity-->
+            <!--android:name=".activities.RecentMediaActivity"-->
+            <!--android:configChanges="orientation|keyboardHidden|screenSize"-->
+            <!--android:label="@string/app_name"-->
+            <!--android:screenOrientation="user"-->
+            <!--android:theme="@style/AppTheme" />-->
+        <!--<activity-->
+            <!--android:name=".activities.SettingsActivity"-->
+            <!--android:configChanges="orientation|keyboardHidden|screenSize"-->
+            <!--android:label="@string/app_name"-->
+            <!--android:screenOrientation="user"-->
+            <!--android:theme="@style/AppTheme" />-->
+        <!--<activity-->
+            <!--android:name=".activities.VideoActivity"-->
+            <!--android:configChanges="orientation|keyboardHidden|screenSize"-->
+            <!--android:label="@string/app_name"-->
+            <!--android:screenOrientation="user"-->
+            <!--android:theme="@style/FullscreenTheme">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.VIEW" />-->
+
+                <!--<category android:name="android.intent.category.DEFAULT" />-->
+
+                <!--<data android:mimeType="video/*" />-->
+                <!--<data android:mimeType="audio/*" />-->
+                <!--<data android:scheme="http" />-->
+                <!--<data android:scheme="file" />-->
+            <!--</intent-filter>-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.SEND" />-->
+
+                <!--<category android:name="android.intent.category.DEFAULT" />-->
+
+                <!--<data android:mimeType="video/*" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
+
+        <!--<service-->
+            <!--android:name=".services.MediaPlayerService"-->
+            <!--android:enabled="false"-->
+            <!--android:exported="false"-->
+
+            <!--android:label="@string/app_name" />-->
+        <!--&lt;!&ndash;android:icon="@mipmap/ic_launcher"&ndash;&gt;-->
+
+        <!--<activity-->
+            <!--android:name=".activities.TestMainActivity"-->
+            <!--android:label="@string/title_activity_test_main"-->
+            <!--android:theme="@style/AppTheme"-->
+            <!--&gt;-->
+            <!--&lt;!&ndash;<intent-filter>&ndash;&gt;-->
+                <!--&lt;!&ndash;<action android:name="android.intent.action.MAIN" />&ndash;&gt;-->
+
+                <!--&lt;!&ndash;<category android:name="android.intent.category.LAUNCHER" />&ndash;&gt;-->
+            <!--&lt;!&ndash;</intent-filter>&ndash;&gt;-->
+        <!--</activity>-->
+    <!--</application>-->
+
+</manifest>

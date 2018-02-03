@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_test_fuliao"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    tools:context="com.example.ijkplayer_fuliao.TestFuliaoActivity">
+    <!--<FrameLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:background="#0099cc">-->
+
+        <!--<tv.danmaku.ijk.media.example.widget.media.IjkVideoView-->
+            <!--android:id="@+id/ijk_video_view1"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_gravity="center"></tv.danmaku.ijk.media.example.widget.media.IjkVideoView>-->
+
+    <!--</FrameLayout>-->
+
+    <Button
+        android:id="@+id/btMute"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="开启静音"/>
+    <RelativeLayout
+        android:id="@+id/rl_pull_player_surface2"
+        android:layout_width="110dp"
+        android:layout_height="195dp"
+        android:layout_centerHorizontal="true">
+
+        <tv.danmaku.ijk.media.example.widget.media.IjkVideoView
+            android:id="@+id/ijk_video_view2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:layout_gravity="center"></tv.danmaku.ijk.media.example.widget.media.IjkVideoView>
+        <ImageView
+            android:id="@+id/iv_pull_player_no_surface1_animation2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/broadcast_btn_at" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_pull_player_surface1"
+        android:layout_width="110dp"
+        android:layout_height="195dp"
+        android:layout_marginRight="4dp"
+        android:layout_toLeftOf="@id/rl_pull_player_surface2">
+
+        <tv.danmaku.ijk.media.example.widget.media.IjkVideoView
+            android:id="@+id/ijk_video_view1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:layout_gravity="center"></tv.danmaku.ijk.media.example.widget.media.IjkVideoView>
+        <ImageView
+            android:id="@+id/iv_pull_player_no_surface1_animation1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/broadcast_btn_at" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_pull_player_surface3"
+        android:layout_width="110dp"
+        android:layout_height="195dp"
+        android:layout_marginRight="4dp"
+        android:layout_toRightOf="@id/rl_pull_player_surface2">
+
+        <tv.danmaku.ijk.media.example.widget.media.IjkVideoView
+            android:id="@+id/ijk_video_view3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:layout_gravity="center"></tv.danmaku.ijk.media.example.widget.media.IjkVideoView>
+        <ImageView
+            android:id="@+id/iv_pull_player_no_surface1_animation3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/broadcast_btn_at" />
+    </RelativeLayout>
+
+
+    <!--<LinearLayout-->
+        <!--android:id="@+id/buffering_indicator"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:focusable="false"-->
+        <!--android:focusableInTouchMode="false"-->
+        <!--android:orientation="vertical"-->
+        <!--android:visibility="gone" >-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/buffering_msg"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:adjustViewBounds="true"-->
+            <!--android:ellipsize="marquee"-->
+            <!--android:marqueeRepeatLimit="0"-->
+            <!--android:scaleType="centerInside"-->
+            <!--android:singleLine="true"-->
+            <!--android:text="buffering"-->
+            <!--android:textSize="12sp" />-->
+
+        <!--<ProgressBar-->
+            <!--android:id="@+id/buffering_progress"-->
+            <!--style="@android:style/Widget.ProgressBar.Large"-->
+            <!--android:layout_width="60dip"-->
+            <!--android:layout_height="60dip" />-->
+    <!--</LinearLayout>-->
+
+</RelativeLayout>

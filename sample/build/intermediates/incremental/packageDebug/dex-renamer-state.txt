@@ -1,0 +1,7 @@
+#Mon Nov 13 15:07:00 CST 2017
+base.0=F\:\\FLAndroidProject\\ijkplayer\\android\\ijkplayer\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9b35eaed2d0befc42415bf2ea82cad50b143e52b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\FLAndroidProject\\ijkplayer\\android\\ijkplayer\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2e471aaecb41c8d0edfdaff8a8d45bdcec482619\\classes.dex
+base.1=F\:\\FLAndroidProject\\ijkplayer\\android\\ijkplayer\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2e471aaecb41c8d0edfdaff8a8d45bdcec482619
+file.0=F\:\\FLAndroidProject\\ijkplayer\\android\\ijkplayer\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9b35eaed2d0befc42415bf2ea82cad50b143e52b\\classes.dex

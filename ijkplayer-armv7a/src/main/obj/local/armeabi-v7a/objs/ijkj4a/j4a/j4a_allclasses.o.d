@@ -1,0 +1,86 @@
+/cygdrive/f/FLAndroidProject/ijkplayer/android/ijkplayer/ijkplayer-armv7a/src/main/obj/local/armeabi-v7a/objs/ijkj4a/j4a/j4a_allclasses.o: \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/j4a_allclasses.c \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/j4a_allclasses.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/j4a_base.h \
+ /cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/string.h \
+ /cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
+ /cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
+ /cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/android/api-level.h \
+ /cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/malloc.h \
+ /cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/stdint.h \
+ /cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ /cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ /cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h \
+ /cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/jni.h \
+ /cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/android/log.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/j4a_allclasses.include.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/java/nio/Buffer.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/j4a_base.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/java/nio/ByteBuffer.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/java/util/ArrayList.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/android/media/AudioTrack.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/android/media/MediaCodec.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/android/media/MediaFormat.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/android/media/PlaybackParams.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/android/os/Build.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/android/os/Bundle.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/tv/danmaku/ijk/media/player/misc/IMediaDataSource.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/tv/danmaku/ijk/media/player/misc/IAndroidIO.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/tv/danmaku/ijk/media/player/IjkMediaPlayer.h \
+ /cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/j4a_allclasses.loader.h
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/j4a_allclasses.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/j4a_base.h:
+
+/cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/string.h:
+
+/cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
+
+/cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/android/api-level.h:
+
+/cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/malloc.h:
+
+/cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/stdint.h:
+
+/cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/sys/_types.h:
+
+/cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/machine/_types.h:
+
+/cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h:
+
+/cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/jni.h:
+
+/cygdrive/d/eclipse/ndk/android-ndk-r10e/platforms/android-9/arch-arm/usr/include/android/log.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/j4a_allclasses.include.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/java/nio/Buffer.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/j4a_base.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/java/nio/ByteBuffer.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/java/util/ArrayList.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/android/media/AudioTrack.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/android/media/MediaCodec.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/android/media/MediaFormat.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/android/media/PlaybackParams.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/android/os/Build.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/android/os/Bundle.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/tv/danmaku/ijk/media/player/misc/IMediaDataSource.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/tv/danmaku/ijk/media/player/misc/IAndroidIO.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/class/tv/danmaku/ijk/media/player/IjkMediaPlayer.h:
+
+/cygdrive/f/FLAndroidProject/ijkplayer/ijkmedia/ijkj4a/j4a/j4a_allclasses.loader.h:
